@@ -23,7 +23,7 @@ b) Import db object and generate SQLite database:<br>
 '>>>' db.create_all()<br>
 '>>>' exit()<br>
 
-After that, just run your application.
+After that, just run your application.<br>
 (python crud.py)
 
 
