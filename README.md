@@ -31,7 +31,7 @@ After that, just run your application.
 Add New User:
 (POST: localhost:5000/user)
 
-[a link] (https://github.com/RicardoTurco/apiWithFlaskBASIC/blob/master/images/000_addNewUser.jpg)
+[a link target="_blank"] (https://github.com/RicardoTurco/apiWithFlaskBASIC/blob/master/images/000_addNewUser.jpg)
 
 
 Get All Users:
