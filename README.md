@@ -1,8 +1,8 @@
 # A simple API with FLASK
 
-This API uses Python 3.7 ...
-The purpose of this API is just to demonstrate the most "basic" level possible of an API using FLASK.
-Another example will be published using a more elaborate "architecture" like MVC
+This API uses Python 3.7 ...<br>
+The purpose of this API is just to demonstrate the most "basic" level possible of an API using FLASK.<br>
+Another example will be published using a more elaborate "architecture" like MVC.
 
 # ROADMAP:
 
