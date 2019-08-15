@@ -2,7 +2,8 @@
 
 This API uses Python 3.7 ...<br>
 The purpose of this API is just to demonstrate the most "basic" level possible of an API using FLASK.<br>
-Another example will be published using a more elaborate "architecture" like MVC.
+Obviously more advanced concepts are not being "addressed", such as "creating and altering tables<br>
+in the database", but ... another example will be published using a more elaborate "architecture" like MVC.
 
 # ROADMAP:
 
