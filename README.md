@@ -24,6 +24,7 @@ b) Import db object and generate SQLite database:<br>
 '>>>' exit()<br>
 
 After that, just run your application.
+(python crud.py)
 
 
 # Available Endpoints:
