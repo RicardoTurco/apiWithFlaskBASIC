@@ -1,4 +1,4 @@
-# A simple API with FLASK
+# A simple API with FLASK (for begginers)
 
 This API uses Python 3.7 ...<br>
 The purpose of this API is just to demonstrate the most "basic" level possible of an API using FLASK.<br>
